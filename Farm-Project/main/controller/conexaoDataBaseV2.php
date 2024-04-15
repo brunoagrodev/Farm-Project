@@ -1,9 +1,9 @@
 <?php
-$servername = "179.188.16.2";
-$username = "frutasbrasil";
-$password = "dZ8S35cnCi#5!q";
-$my_db = "frutasbrasil";
-$port = "3306";
+$servername = "";
+$username = "";
+$password = "";
+$my_db = "";
+$port = "";
 
 //Conexao com o banco de dados
 $conn = new mysqli($servername, $username, $password,$my_db, $port);
